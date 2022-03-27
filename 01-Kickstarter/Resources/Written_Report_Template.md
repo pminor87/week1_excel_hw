@@ -1,10 +1,8 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The Project was blah blah blah
 
 ### Purpose
-Purpose was to do #datascience on excel
 
 ## Analysis and Challenges
 
