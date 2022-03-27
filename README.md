@@ -11,11 +11,11 @@ Analyze datasets on Outcomes Based on Launch Date and Goals.
 
 ### Analysis of Outcomes Based on Launch Date
 Launch Dates executed in May and June seem to have the highest historic success rate.
-![Outcomes Based on Launch Date](C:\Users\pmino\Desktop\Boot_Camp\Boot_Camp_HW\week1_excel_hw\01-Kickstarter\Resources\Theater_Outcomes_vs_Launch)
+![Outcomes Based on Launch Date](https://github.com/pminor87/week1_excel_hw/blob/main/01-Kickstarter/Submission/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 There are two conclusions to draw from the dataset. Goals of less than $5k and between $40k and $45k tend to have the highest success rate, however there is a much smaller sample size for the latter. The confidence level in success rate between $40k and $45k goals is much lower than that of goals set less than $5k.
-![Outcomes Based on Goals](C:\Users\pmino\Desktop\Boot_Camp\Boot_Camp_HW\week1_excel_hw\01-Kickstarter\Resources\Outcomes_vs_Goals)
+![Outcomes Based on Goals](https://github.com/pminor87/week1_excel_hw/blob/main/01-Kickstarter/Submission/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I had a small challenge with the countifs function when attempting to capture data between goal ammounts. I was attempting to nest the "AND" function within the countifs function but realized it was not neccessary because the countifs function already utilizes multiple criteria.
